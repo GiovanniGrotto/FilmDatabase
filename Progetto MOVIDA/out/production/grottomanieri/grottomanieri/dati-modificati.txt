@@ -1,0 +1,41 @@
+Title: Goodfellas
+Year: 1990
+Director: Martin Scorsese 
+Cast: Robert De Niro, Ray Liotta, Joe Pesci
+Votes: 7
+
+Title: Casino
+Year: 1995
+Director: Martin Scorsese 
+Cast: Robert De Niro, Joe Pesci, Sharon Stone
+Votes: 8
+
+Title: Basic Instinct
+Year: 1992
+Director: Paul Verhoeven 
+Cast: Michael Douglas, Sharon Stone
+Votes: 6
+
+Title: Tricked
+Year: 2012
+Director: Paul Verhoeven 
+Cast: Peter Blok, Robert de Hoog
+Votes: 3
+
+Title: Elle
+Year: 2016
+Director: Paul Verhoeven 
+Cast: Isabelle Huppert, Laurent Lafitte
+Votes: 2
+
+Title: Basic Instinct 2
+Year: 2006
+Director: Michael Caton-Jones 
+Cast: David Morrissey, Sharon Stone
+Votes: 4
+
+Title: Last Vegas
+Year: 2013
+Director: Jon Turteltaub 
+Cast: Michael Douglas, Robert De Niro
+Votes: 5
